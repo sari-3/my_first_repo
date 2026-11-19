@@ -1,1 +1,2 @@
 Some text in a new file
+Some text on the new branch
